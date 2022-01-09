@@ -107,7 +107,6 @@ namespace ConsoleApp25
                         Console.Clear();
                         break;
                 }
-                ;
             } while (TicTac = true);
         }
     }
